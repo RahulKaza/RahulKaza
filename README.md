@@ -1,9 +1,6 @@
-### Hi there 👋
+### Hi there 👋 Welcome to my Github Profile
 
-<!--
-**RahulKaza/RahulKaza** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
+I am a currently pursuing my Masters in Business Analytics from the university of texas at dallas ![image](https://user-images.githubusercontent.com/123140756/217347779-d8a8ec79-aa4e-4bb5-8c6b-36844d2e46fa.png)
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
