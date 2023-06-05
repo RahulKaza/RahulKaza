@@ -33,7 +33,7 @@ TECHNICAL SKILLS
 - Libraries             -   Numpy, Pandas, NLTK, Sckit learn, seaborn, Plotly, Matplotlib
 
 
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
+- 🤔 I’m looking for help with ... a finding a job in Data analytics, Business Analytics.
+- 💬 Ask me about my past experience and my projects
 - 📫 How to reach me: @rahaulkaza.1399@gmail.com
 - ⚡ Fun fact: ...
