@@ -36,4 +36,3 @@ TECHNICAL SKILLS
 - 🤔 I’m looking for help with ... a finding a job in Data analytics, Business Analytics.
 - 💬 Ask me about my past experience and my projects
 - 📫 How to reach me: @rahaulkaza.1399@gmail.com
-- ⚡ Fun fact: ...
