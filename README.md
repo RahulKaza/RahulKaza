@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working as Full Stack Developer at MountStreet<br>👯 I’m looking to collaborate on <br>🤝 I’m looking for help with a Job search in the Field of Software Engineering, Data Science<br>💬 Ask me about my Projects and Experience<br>
+🔭 I’m currently working as Full Stack Developer at MountStreet<br>👯 I’m looking to collaborate on New Technologies/Projects <br>🤝 I’m looking for help with a Job search in the Field of Software Engineering, Data Science<br>💬 Ask me about my Projects and Experience<br>
 
 
 ## 🌐 Socials:
